@@ -121,14 +121,3 @@ Features:
 </p>
 
 ---
-
-
----
-
-## Contact
-
-* GitHub: https://github.com/qwerskdn4869
-
----
-
-⭐ If you find any of my projects useful, consider giving them a star.
