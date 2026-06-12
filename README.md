@@ -24,7 +24,6 @@ Currently focused on developing low-latency trading systems, market data pipelin
 
 ### Quantitative Research
 
-* Statistical Arbitrage
 * Market Microstructure
 * Alpha Discovery
 * Strategy Backtesting
@@ -40,11 +39,9 @@ Currently focused on developing low-latency trading systems, market data pipelin
 
 ### Blockchain Development
 
-* Smart Contract Development
 * DeFi Protocol Research
-* EVM Ecosystem
+* EVM,SVM Ecosystem
 * Web3 Integration
-* Blockchain Architecture Design
 
 ### Backend Engineering
 
@@ -63,14 +60,12 @@ Currently focused on developing low-latency trading systems, market data pipelin
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
 ### Backend
 
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis)
 
@@ -83,20 +78,6 @@ Currently focused on developing low-latency trading systems, market data pipelin
 ---
 
 ## Featured Projects
-
-### Multi-Exchange Arbitrage Engine
-
-Real-time arbitrage detection and execution across centralized exchanges.
-
-Features:
-
-* Orderbook aggregation
-* Fee-aware opportunity detection
-* Latency monitoring
-* Risk management
-* Real-time alerts
-
----
 
 ### Quant Research Framework
 
@@ -125,20 +106,6 @@ Features:
 
 ---
 
-## Learning Roadmap
-
-* [x] Solidity
-* [x] TypeScript
-* [x] Backend Development
-* [x] Smart Contract Security Fundamentals
-* [ ] Exchange Infrastructure
-* [ ] Market Making Systems
-* [ ] High Frequency Trading
-* [ ] Distributed Systems at Scale
-* [ ] Advanced Quantitative Finance
-
----
-
 ## GitHub Activity
 
 <p align="center">
@@ -155,15 +122,6 @@ Features:
 
 ---
 
-## Philosophy
-
-> Build systems.
->
-> Automate decisions.
->
-> Eliminate inefficiencies.
->
-> Scale relentlessly.
 
 ---
 
