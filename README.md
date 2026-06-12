@@ -1,42 +1,123 @@
-<!-- qwerskdn4869 GitHub Profile README -->
+# QWERSKDN4869 ![Profile Views](https://komarev.com/ghpvc/?username=qwerskdn4869&color=0f6e56&style=flat)
 
-<div align="center">
+### Quantitative Researcher • DeFi Researcher • Backend Engineer
 
-# Hi there 👋
-
-**Developer · building things on GitHub**
-
-![Profile Views](https://komarev.com/ghpvc/?username=qwerskdn4869&color=0f6e56&style=flat)
-
-</div>
+Building trading infrastructure, quantitative research systems, and blockchain applications.
 
 ---
 
-### 🛠 Tech stack
+## About Me
 
-![Python](https://img.shields.io/badge/Python-1D9E75?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-185FA5?style=flat&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-BA7517?style=flat&logo=react&logoColor=white)
-![Git](https://img.shields.io/badge/Git-993C1D?style=flat&logo=git&logoColor=white)
+I am passionate about designing and building systems at the intersection of:
 
----
+* Quantitative Trading
+* Market Infrastructure
+* Backend Engineering
+* Blockchain Technology
+* DeFi Research
 
-### 📊 Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=qwerskdn4869&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=qwerskdn4869&layout=compact&hide_border=true&theme=default" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qwerskdn4869&theme=minimal&hide_border=true&area=true" width="100%"/>
-</div>
+Currently focused on developing low-latency trading systems, market data pipelines, arbitrage engines, and scalable backend architectures.
 
 ---
 
-### 🔗 Connect
+## Current Focus
 
-[![GitHub](https://img.shields.io/badge/GitHub-qwerskdn4869-181717?style=flat&logo=github)](https://github.com/qwerskdn4869)
+### Quantitative Research
 
-</br>
-<sub>⚡ Updated automatically</sub>
+* Market Microstructure
+* Alpha Discovery
+* Strategy Backtesting
+* Risk Management
+
+### Trading Infrastructure
+
+* Multi-Exchange Arbitrage Systems
+* Orderbook Aggregation
+* Real-Time Market Data Processing
+* Execution Engines
+* Monitoring & Analytics
+
+### Blockchain Development
+
+* DeFi Protocol Research
+* EVM,SVM Ecosystem
+* Web3 Integration
+
+### Backend Engineering
+
+* High Performance APIs
+* Event-Driven Architecture
+* Distributed Systems
+* Data Pipelines
+* Microservices
+
+---
+
+## Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+
+### Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis)
+
+### Blockchain
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge\&logo=solidity)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge\&logo=ethereum)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust)
+
+---
+
+## Featured Projects
+
+### Quant Research Framework
+
+Research platform for developing and evaluating quantitative strategies.
+
+Features:
+
+* Historical data analysis
+* Backtesting engine
+* Performance analytics
+* Strategy comparison
+* Signal generation
+
+---
+
+### DeFi Analytics Platform
+
+Tools for analyzing protocols, liquidity, and on-chain activity.
+
+Features:
+
+* On-chain data collection
+* Protocol analytics
+* Liquidity tracking
+* Yield monitoring
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qwerskdn4869&theme=github-compact" width="100%"/>
+</p>
+
+---
+
+## GitHub Metrics
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=qwerskdn4869&theme=flat&no-frame=true&margin-w=10"/>
+</p>
+
+---
