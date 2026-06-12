@@ -108,10 +108,6 @@ Features:
 
 ## GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qwerskdn4869&theme=github-compact" width="100%"/>
-</p>
-
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qwerskdn4869&show_icons=true&locale=en&layout=compact" alt="qwerskdn4869" height="150"/> <img src="https://github-readme-stats.vercel.app/api?username=qwerskdn4869&show_icons=true&locale=en" alt="qwerskdn4869" height="150"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=qwerskdn4869&" alt="qwerskdn4869" height="150"/> </div> 
 
 ---
