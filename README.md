@@ -1,4 +1,4 @@
-# QWERSKDN4869 ![Profile Views](https://komarev.com/ghpvc/?username=qwerskdn4869&color=0f6e56&style=flat)
+# QWERSKDN4869 
 
 ### Quantitative Researcher • DeFi Researcher • Backend Engineer
 
