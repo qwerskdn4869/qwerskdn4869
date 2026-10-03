@@ -2,28 +2,7 @@
 
 ## Quantitative Research • Trading Systems • DeFi • Backend Engineering
 Building quantitative research systems, trading infrastructure, and blockchain applications.
-My work focuses on the intersection of markets, software engineering, and decentralized finance.
-Focus
-Quantitative Research
-- Alpha research & backtesting
-- Market microstructure
-- Portfolio & risk analysis
-- Systematic trading
-Trading Systems
-- Real-time market data pipelines
-- Order book processing
-- Execution infrastructure
-- Multi-exchange & arbitrage systems
-DeFi & Blockchain
-- DeFi protocol research
-- On-chain analytics
-- EVM / SVM ecosystems
-- Smart contract & Web3 infrastructure
-Backend Engineering
-- High-performance APIs
-- Event-driven systems
-- Data pipelines
-- Distributed architectures
+
 ---
 
 ## GitHub Activity
