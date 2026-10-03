@@ -1,6 +1,6 @@
 # QWERSKDN4869 
 
-## Quantitative Research • Trading Systems • DeFi • Backend Engineering
+Quantitative Research • Trading Systems • DeFi • Backend Engineering
 Building quantitative research systems, trading infrastructure, and blockchain applications.
 
 ---
