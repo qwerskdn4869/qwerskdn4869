@@ -1,10 +1,10 @@
 # QWERSKDN4869
 
-**Quantitative Researcher | Trading Systems Engineer**
+- Quantitative Research
+- Trading Systems
+- DeFi
+- Backend Engineering
 
-*Quantitative Finance · Algorithmic Trading · Market Infrastructure · DeFi · Backend Engineering*
-
-Building robust quantitative research platforms, systematic trading strategies, and high-performance financial infrastructure.
 ---
 
 ## GitHub Activity
